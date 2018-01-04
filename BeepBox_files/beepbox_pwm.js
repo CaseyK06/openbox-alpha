@@ -209,7 +209,7 @@ var beepbox;
     Config.pianoScaleFlags = [true, false, true, false, true, true, false, true, false, true, false, true];
     Config.blackKeyNameParents = [-1, 1, -1, 1, -1, 1, -1, -1, 1, -1, 1, -1];
     Config.pitchNames = ["C", null, "D", null, "E", "F", null, "G", null, "A", null, "B"];
-    Config.keyNames = ["B", "Aâ™¯", "A", "Gâ™¯", "G", "Fâ™¯", "F", "E", "Dâ™¯", "D", "Câ™¯", "C"];
+    Config.keyNames = ["B", "A#", "A", "G#", "G", "F#", "F", "E", "D#", "D", "Câ™¯", "C"];
     Config.keyTransposes = [23, 22, 21, 20, 19, 18, 17, 16, 15, 14, 13, 12];
     Config.tempoNames = ["molasses", "slow", "leisurely", "moderate", "steady", "brisk", "hasty", "fast", "strenuous", "grueling", "hyper", "ludicrous"];
     Config.reverbRange = 4;
